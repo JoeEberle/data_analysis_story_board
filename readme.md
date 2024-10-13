@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Data Analysis Story Board - A story board document of data amalysis from start to finish.
-A story board document of data amalysis from start to finish.
+# Data Analysis Story Board - A story board document of data analysis from start to finish.
+A story board document of data analysis from start to finish.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Data Analysis Story Board** - an example for your projects
 
-A story board document of data amalysis from start to finish.
+A story board document of data analysis from start to finish.
 
 ![Image image_filename](sample.png)
 
