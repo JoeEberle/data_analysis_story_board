@@ -39,11 +39,8 @@ To get started with the **Data Analysis Story Board** solution repository, follo
  ![additional_image](data_analysis_story_board.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
