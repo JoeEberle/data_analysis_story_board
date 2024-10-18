@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Data Analysis Story Board - A story board document of data analysis from start to finish.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Data Analysis Story Board 
+    ## A story board document of data analysis from start to finish.
+    ![Image image_filename](code.png)
 Welcome to the solution **Data Analysis Story Board** - an example for your projects
 
 A story board document of data analysis from start to finish.
@@ -12,12 +15,15 @@ To get started with the **Data Analysis Story Board** solution repository, follo
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
