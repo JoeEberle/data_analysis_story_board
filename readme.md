@@ -4,7 +4,20 @@
 
 ## A story board document of data analysis from start to finish.
 
-    ![Image image_filename](code.png)
+    
+# Table of Contents
+
+- [Solution Overview](#Solution-Overview)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Notebook Features](#notebook-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+![Image image_filename](code.png)
 Welcome to the solution **Data Analysis Story Board** - an example for your projects
 
 A story board document of data analysis from start to finish.
