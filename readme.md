@@ -2,7 +2,7 @@
 Welcome to the solution **Data Analysis Story Board** - an example for your projects
 
 A story board document of data analysis from start to finish.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
