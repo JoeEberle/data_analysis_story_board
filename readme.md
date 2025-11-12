@@ -4,21 +4,11 @@
 
 ## A story board document of data amalysis from start to finish.
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Data Analysis Story Board** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Data Analysis Story Board** 
 
 A story board document of data amalysis from start to finish.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
